@@ -1,3 +1,3 @@
 # slidingpanel
 
-A C++ Windows Form function for a sliding panel.
+Simple C++ Windows Form Sliding Panel.
