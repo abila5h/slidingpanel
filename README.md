@@ -1,2 +1,3 @@
 # slidingpanel
-Low bandwidth DoS tool based on SlowLoris, for Mac.
+
+A C++ Windows Form function for a sliding panel.
