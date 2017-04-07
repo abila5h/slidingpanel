@@ -1,7 +1,7 @@
 # Sliding Panel
 
-A simple C++ Windows Form Sliding Panel.
+A simple sliding panel which can be implemented to any C++ Windows Form.
 
-# Code Example
+# Installing
 
-Form1.h is the sample code for the Sliding Panel which can be implemented into any existing C++ Windows Form.
+Form1.h contains the sample code for the Sliding Panel. You ca snip form1.h's code directly into your current form to test this out.
